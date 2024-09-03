@@ -21,14 +21,14 @@ A Java IDE (like IntelliJ, Eclipse, or NetBeans) or command line tools for compi
 ## How to Run
 
 1. Clone this repository to your local machine:
-# git clone https://github.com/ShubhamGawde/flappy-bird.git
+ git clone https://github.com/ShubhamGawde/flappy-bird.git
 
 2. Navigate to the project directory:
-# cd flappy-bird
+ cd flappy-bird
 
 3. Compile and run the game:
-# javac App.java
-# java App
+ javac App.java
+ java App
 
 ## Controls
 • Space Bar: Flap the bird to fly higher.
